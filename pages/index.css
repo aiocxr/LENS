@@ -62,9 +62,8 @@
 }
 
 .home__container {
-  background-image: url("../images/damaris1.JPG");
+  background-image: url(../images/damaris.JPG);
   background-size: cover;
-  background-position: center;
   background-repeat: no-repeat;
   position: relative;
   background-position: center 25%;
